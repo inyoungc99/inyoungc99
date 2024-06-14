@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm In-Young Chang</h1>
-<h3 align="center">A passionate Computer Science student at Umich〽️</h3>
+<h1 align="center">Hi 👋, I'm Hailey(In-Young) Chang</h1>
+<h3 align="center">A senior, studying computer science at the University of Michigan〽️</h3>
 
-- 🌱 I’m currently learning **Web Systems and Computer Vision**
+- 🌱 I’m currently working as a platforms engineer intern at Spectrum**
 
-- 🤝 I’m actively looking for **2024 summer internships in software engineering (full-stack/front-end/back-end)**
-
-- 💬 Ask me anything about **C++, Python, and restaurant recommendations in Ann Arbor!**
+- 💬 Ask me anything about ** Cloud and Programming overall!**
 
 - 📫 Reach me at **inyoungchang99@gmail.com**
 
