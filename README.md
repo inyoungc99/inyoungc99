@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hailey(In-Young) Chang</h1>
+<h1 align="center">Hi, I'm Hailey(In-Young) Chang</h1>
 <h3 align="center">A senior, studying computer science at the University of Michigan〽️</h3>
 
 - 🌱 I’m currently working as a platforms engineer intern at Spectrum
