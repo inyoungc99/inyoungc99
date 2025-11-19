@@ -5,7 +5,7 @@ Hi, I'm Hailey(In-Young) Chang, a recent CS graduate from the University of Mich
 
 - 💬 Ask me anything about AWS and Programming overall!
 
-- 📫 Reach me at **haileychang99@gmail.com** for any questions/collaboration ideas
+- 📫 Reach me at **haileychang99@gmail.com** for any questions
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
