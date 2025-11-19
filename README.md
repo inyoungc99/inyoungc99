@@ -1,7 +1,7 @@
 
 Hi, I'm Hailey(In-Young) Chang, a recent CS graduate from the University of Michigan〽️
 
-- 🌱 I'm currently a DevOps Engineer at Charter Communications on the Public Cloud SRE team, where I manage and maintain AWS environments.
+- 🌱 I'm currently a DevOps Engineer at Spectrum on the Public Cloud SRE team, where I manage and maintain AWS environments.
 
 - 💬 Ask me anything about AWS and Programming overall!
 
