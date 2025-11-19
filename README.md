@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Hailey(In-Young) Chang</h1>
-<h3 align="center">A recent CS graduate from the University of Michigan〽️</h3>
+
+<h3 align="center">Hi, I'm Hailey(In-Young) Chang, a recent CS graduate from the University of Michigan〽️</h3>
 
 - 🌱 I’m currently working as a DevOps Engineer on the Public Cloud team at Charter Communications
 
