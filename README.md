@@ -1,11 +1,11 @@
 
-<h3 align="center">Hi, I'm Hailey(In-Young) Chang, a recent CS graduate from the University of Michigan〽️</h3>
+Hi, I'm Hailey(In-Young) Chang, a recent CS graduate from the University of Michigan〽️
 
 - 🌱 I'm currently a DevOps Engineer at Charter Communications on the Public Cloud SRE team, where I manage and maintain AWS environments.
 
 - 💬 Ask me anything about AWS and Programming overall!
 
-- 📫 Reach me at **haileychang99@gmail.com** for any future collaborations
+- 📫 Reach me at **haileychang99@gmail.com** for any questions/collaboration ideas
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
