@@ -1,5 +1,5 @@
 
-Hi, I'm Hailey (In-Young) Chang, a recent CS graduate from the University of Michigan〽️
+Hi, I'm Hailey (In-Young) Chang, a CS graduate from the University of Michigan〽️
 
 - 🌱 I'm currently a DevOps Engineer at Spectrum on the Public Cloud SRE team, where I manage and maintain AWS environments.
 
