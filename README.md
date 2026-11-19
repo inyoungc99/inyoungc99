@@ -1,8 +1,7 @@
 
 Hi, I'm Hailey (In-Young) Chang, a CS graduate from the University of Michigan〽️
 
-- 🌱 I'm currently a DevOps Engineer at Spectrum on the Public Cloud SRE team, where I manage and maintain AWS environments.
-
+- 🌱 I'm currently a DevOps Engineer at Spectrum on the Public Cloud SRE team, where I manage and maintain cloud infrastructure.
 - 📫 Reach me at **haileychang99@gmail.com** for any questions!
 
 <h3 align="left">Connect with me:</h3>
